@@ -1,4 +1,6 @@
 
+# Hi, I'm Pedram
+
 After graduating from Petroleum Engineering, due to my great interest in computers, I decided to learn computer science on my own and I start learning the university courses from [https://github.com/ossu/computer-science#intro-cs](https://github.com/ossu/computer-science#intro-cs). I always like to be a full-stack designer and developer which can mixed architecture with code.  I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are montain climbing, reading books, swimming, creating hand crafted software, learning new things.
 
 
