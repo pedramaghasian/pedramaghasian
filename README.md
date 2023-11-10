@@ -1,8 +1,7 @@
 
 # Hi, I'm Pedram
 
-After graduating from Petroleum Engineering, due to my great interest in computers, I decided to learn computer science on my own and I start learning the university courses from [https://github.com/ossu/computer-science#intro-cs](https://github.com/ossu/computer-science#intro-cs). I always like to be a full-stack designer and developer which can mixed architecture with code.  I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are montain climbing, reading books, swimming, creating hand crafted software, learning new things.
-
+  Greetings! I'm Pedram Aghasian, a dedicated software engineer driven by a passion for creating innovative solutions to complex challenges. I am committed to designing and implementing high-performance systems that seamlessly blend cutting-edge technology with maintainable and scalable architectures.
 
 <h3 align="left">My contact:</h3>
 <p align="left">Find out more about me & feel free to connect with me here:</p>
@@ -19,14 +18,6 @@ After graduating from Petroleum Engineering, due to my great interest in compute
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://wa.me/989120275368" target="_blank" rel="noreferrer" title="+989120275368">
-    <img
-      src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"
-      alt="whatsapp"
       width="40"
       height="40"
     />
@@ -55,6 +46,14 @@ After graduating from Petroleum Engineering, due to my great interest in compute
 
 <h3 align="left">Languages:</h3>
 <p align="left">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-icon.svg"
+      alt="golang"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
