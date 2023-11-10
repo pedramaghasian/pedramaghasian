@@ -1,7 +1,7 @@
 
-# Hi, I'm Pedram
+Hi 👋
 
-  Greetings! I'm Pedram Aghasian, a dedicated software engineer driven by a passion for creating innovative solutions to complex challenges. I am committed to designing and implementing high-performance systems that seamlessly blend cutting-edge technology with maintainable and scalable architectures.
+Welcome to my corner of the digital realm! I'm Pedram Aghasian, a devoted software engineer with an unwavering passion for crafting innovative solutions to intricate challenges. My professional journey is centered around the art of designing and implementing high-performance systems that harmoniously integrate the latest technological advancements with maintainable and scalable architectures.
 
 <h3 align="left">My contact:</h3>
 <p align="left">Find out more about me & feel free to connect with me here:</p>
@@ -48,7 +48,7 @@
 <p align="left">
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-icon.svg"
+      src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"
       alt="golang"
       width="40"
       height="40"
